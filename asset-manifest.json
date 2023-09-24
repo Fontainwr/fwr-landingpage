@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fwr-landingpage/static/css/main.42300d1c.css",
+    "main.js": "/fwr-landingpage/static/js/main.cf9fe57c.js",
+    "static/media/about-background-image.png": "/fwr-landingpage/static/media/about-background-image.0544b14f055d04d12b89.png",
+    "static/media/home-banner-image.png": "/fwr-landingpage/static/media/home-banner-image.d582e2eab4cf96173bba.png",
+    "static/media/logo.png": "/fwr-landingpage/static/media/logo.4388fb000b4362150fef.png",
+    "static/media/home-banner-background.png": "/fwr-landingpage/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/fwr-landingpage/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/fwr-landingpage/index.html",
+    "main.42300d1c.css.map": "/fwr-landingpage/static/css/main.42300d1c.css.map",
+    "main.cf9fe57c.js.map": "/fwr-landingpage/static/js/main.cf9fe57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.cf9fe57c.js"
+  ]
+}
